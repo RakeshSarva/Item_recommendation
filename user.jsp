@@ -170,7 +170,7 @@
 				</div>
 			</div>
 			<div class="mainimg">
-				<img  alt="can't find" src="images/recommandation.jpg">
+				<img  alt="can't find" src="recommandation.jpg">
 			</div>
 				<div class="bottomblock">
 					<div class="features">
