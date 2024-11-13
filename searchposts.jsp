@@ -121,7 +121,7 @@
 		<form action="searchposts.jsp" method="post">				
 				 <div>
 						<div class="pic">
-							<img  alt="can't find" src="images/userverify1.jpg">
+							<img  alt="can't find" src="userverify1.jpg">
 						</div>
 						<div class="data">
 							<h3 style="padding:10px;">Search for Posts: </h3>
